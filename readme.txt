@@ -1,0 +1,1 @@
+The project consists of VHDL files provided by Dr. Greg Stitt, University of Florida to the students of Reconfigurable Computing/Fall 2013. The files provide a structure to the project on which rest of the code has been built and tested.
